@@ -1,0 +1,10 @@
+@keyframes slideUp {
+  from {
+    transform: translateY(100%);
+    opacity: 0;
+  }
+  to {
+    ransform: translateY(100px);
+    opacity: 1;
+  }
+}

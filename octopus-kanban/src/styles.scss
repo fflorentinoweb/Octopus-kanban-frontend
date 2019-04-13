@@ -1,0 +1,16 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #f4f4f4;
+}
+@import './assets/scss/utils/animations';
+
+@import './assets/scss/components/header';
+@import './assets/scss/components/fab';
+@import './assets/scss/components/new-task';
+
+@import './assets/scss/pages/kanban';
